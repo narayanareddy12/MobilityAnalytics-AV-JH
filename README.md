@@ -1,2 +1,2 @@
-# JanathaHack-MobileAnalytics-AnalyticsVidhya
+# JanathaHack-MobileAnalytics-AV
 JanathaHack by analyticsvidhya
