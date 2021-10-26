@@ -9,6 +9,7 @@ You have been hired by Sigma Cabs as a Data Scientist and have been asked to bui
 
 
 **Evaluation Metric;**
+
 The evaluation metric for this competition is Accuracy Score.
 
 https://datahack.analyticsvidhya.com/contest/janatahack-mobility-analytics/#ProblemStatement
